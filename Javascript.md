@@ -32,12 +32,15 @@ Understanding these fundamentals can provide a solid foundation for working with
 
 Now build your knowledge by doing some basic Javascript Coding.
 
-# palindrome
+### Table of Contents
+
+| No. | Topics                                                                 |
+| --- | ---------------------------------------------------------------------- |
+| 1   | [Palindrome](#1-palindrome)                                            |
+
+### 1. Palindrome
 
 A palindrome is a word, phrase, number, or other sequence of characters that reads the same forward and backward
-
-
-
 
 ```JavaScript 
 function ispalindrome(str){
@@ -52,3 +55,5 @@ console.log(result? "is palindrome":"is not palindrome");
 // output
 is palindrome
 ```
+
+**[⬆ Back to Top](#table-of-contents)**
